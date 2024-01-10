@@ -102,7 +102,8 @@ def ikhmenu():
         ik=boy*0.67-53
         print(ik)
     elif secim=="11":
-        boy=
+        boy=12
+        print(boy)
 
 
 
