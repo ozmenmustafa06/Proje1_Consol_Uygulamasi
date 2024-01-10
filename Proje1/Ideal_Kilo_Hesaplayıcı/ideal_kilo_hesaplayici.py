@@ -52,55 +52,55 @@ def ikhmenu():
     elif secim=="2":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=(boy-100)-((boy-150)/4)
-        print(f"Broca formülüne göre ideal kilonuz: {ik}")
+        ik2=(boy-100)-((boy-150)/4)
+        print(f"Broca formülüne göre ideal kilonuz: {ik2}")
         ikhmenu()
     elif secim=="3":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=boy*1.063-114
-        print(f"Hamwi formülüne göre ideal kilonuz: {ik}")
+        ik3=boy*1.063-114
+        print(f"Hamwi formülüne göre ideal kilonuz: {ik3}")
         ikhmenu()
     elif secim=="4":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=boy*0.866-86.5
-        print(f"Hamwi formülüne göre ideal kilonuz: {ik}")
+        ik4=boy*0.866-86.5
+        print(f"Hamwi formülüne göre ideal kilonuz: {ik4}")
         ikhmenu()
     elif secim=="5":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=50+(2.3/2.54)*(boy-152.4)
-        print(f"Divine formülüne göre ideal kilonuz: {ik}")
+        ik5=50+(2.3/2.54)*(boy-152.4)
+        print(f"Divine formülüne göre ideal kilonuz: {ik5}")
         ikhmenu()
     elif secim=="6":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=45.5+(2.3/2.54)*(boy-152.4)
-        print(f"Divine formülüne göre ideal kilonuz: {ik}")
+        ik645.5+(2.3/2.54)*(boy-152.4)
+        print(f"Divine formülüne göre ideal kilonuz: {ik6}")
         ikhmenu()
     elif secim=="7":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=boy*0.555-28.4
-        print(f"Miller formülüne göre ideal kilonuz: {ik}")
+        ik7=boy*0.555-28.4
+        print(f"Miller formülüne göre ideal kilonuz: {ik7}")
         ikhmenu()
     elif secim=="8":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=boy*0.535-28.5
-        print(f"Miller formülüne göre ideal kilonuz: {ik}")
+        ik8=boy*0.535-28.5
+        print(f"Miller formülüne göre ideal kilonuz: {ik8}")
         ikhmenu()
     elif secim=="9":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=boy*0.748-62
-        print(ik)
+        ik9=boy*0.748-62
+        print(f"Robinson formülüne göre ideal kilonuz: {ik9}")
     elif secim=="10":
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
         boy2=boy/100
-        ik=boy*0.67-53
-        print(ik)
+        ik10=boy*0.67-53
+        print(f"Robinson formülüne göre ideal kilonuz: {ik10}")
     elif secim=="11":
         
 
