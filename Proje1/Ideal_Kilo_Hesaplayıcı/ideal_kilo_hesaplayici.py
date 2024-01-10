@@ -101,7 +101,7 @@ def ikhmenu():
         boy2=boy/100
         ik10=boy*0.67-53
         print(f"Robinson formülüne göre ideal kilonuz: {ik10}")
-    elif secim=="11":
+   # elif secim=="11":
         
 
 
