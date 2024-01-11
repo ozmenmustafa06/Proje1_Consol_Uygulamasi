@@ -1,6 +1,7 @@
 import Hesap_Makinesi.Hesap_makinesi
 import Not_Hesaplama.Not_hesaplama
 import Sicaklik_Cevirme.Sicaklik_cevirme
+import Ideal_Kilo_Hesaplayici.ideal_kilo_hesaplayici
 import sys
 
 def anamenu():
@@ -55,7 +56,7 @@ def anamenu():
         Sicaklik_Cevirme.Sicaklik_cevirme.sicaklik_menu()
         anamenu()
     elif secim=="11":
-        print("Çok yakında kullanıma sunulacak.")
+        Ideal_Kilo_Hesaplayici.ideal_kilo_hesaplayici.ikhmenu()
         anamenu()
     elif secim=="12":
         print("Programdan çıkılıyor.")
