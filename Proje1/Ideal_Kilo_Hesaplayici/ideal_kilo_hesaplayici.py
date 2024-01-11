@@ -39,6 +39,7 @@ def ikhmenu():
     print("║ 14- Çıkış                       ║")
     print("║                                 ║")
     print("╚═════════════════════════════════╝")
+    print()
     secim=input("Lütfen seçiminizin başındaki sayıyı yazınız:")
     if secim=="1":
         kilo=int(input("Lütfen kilonuzu giriniz (KG):"))
