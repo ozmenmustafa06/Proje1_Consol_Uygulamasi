@@ -3,6 +3,7 @@ import Not_Hesaplama.Not_hesaplama
 import Sicaklik_Cevirme.Sicaklik_cevirme
 import Ideal_Kilo_Hesaplayici.ideal_kilo_hesaplayici
 import sys
+import time
 
 def anamenu():
     print("╔══════════════════════╗")
@@ -59,7 +60,8 @@ def anamenu():
         Ideal_Kilo_Hesaplayici.ideal_kilo_hesaplayici.ikhmenu()
         anamenu()
     elif secim=="12":
-        print("Programdan çıkılıyor.")
+        print("Program 3 saniye içinde kapatılacak.")
+        time.sleep(3)
         sys.exit(0)
     else:
         print("Lütfen menüde bulunan geçerli bir sayı giriniz.")
