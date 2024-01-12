@@ -1,4 +1,5 @@
 import sys
+import time
 
 def notmenu():
     ad=input("Adınız nedir?")

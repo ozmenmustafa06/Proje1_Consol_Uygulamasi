@@ -1,4 +1,5 @@
 import sys
+import time
 
 def sicaklik_menu():
     print("╔═══════════════════════════════╗")
