@@ -1,2 +1,3 @@
-# Vektorel_Bilisim_Projeler
-Vektorel bilisimdeki yapılan projeler
+# PROJE 1
+
+![Resim1](desktop/Ekran Alıntısı.png)
