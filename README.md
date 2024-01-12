@@ -1,3 +1,3 @@
 # PROJE 1
 
-![Resim1](desktop/Ekran Alıntısı.png)
+![Resim1](desktop/screenshot.png)
