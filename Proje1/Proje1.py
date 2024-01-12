@@ -7,7 +7,7 @@ import time
 
 def anamenu():
     print("╔══════════════════════╗")
-    print("║     PYTHON PROJE     ║")
+    print("║    MustiZone App     ║")
     print("║                      ║")
     print("║ 1- Hesap Makinesi    ║")
     print("║ 2- Oyunlar           ║")
