@@ -57,7 +57,8 @@ def notmenu():
         print("Ana Menü'ye dönülüyor.")
         return
     elif secim=="5":
-        print("Programdan çıkılıyor.")
+        print("Program 3 saniye içinde kapatılacak.")
+        time.sleep(3)
         sys.exit(0)
     else:
         print("Lütfen menüde bulunan geçerli bir sayı giriniz.")
