@@ -1,6 +1,6 @@
 # MustiZone App Konsol Uygulaması🖥️💻
 
-<h1><p>Merhaba👋 MustiZone App konsol uygulamasına hoşgeldiniz aşağıda detaylı uygulama anlatımı mevcuttur.👇</p></h1>
+<p>Merhaba👋 MustiZone App konsol uygulamasına hoşgeldiniz aşağıda detaylı uygulama anlatımı mevcuttur.👇</p>
 
 <hr>
 
