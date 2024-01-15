@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>Hesap Makinesi:<h2>
+<h2>Hesap Makinesi:</h2>
 
 ![Hesap_Makinesi](https://github.com/ozmenmustafa06/Vektorel_Bilisim_Projeler/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B12.PNG?raw=true)
 
@@ -20,16 +20,24 @@
 
 <hr>
 
-<h2>Not Hesaplayıcı:<h2>
+<h2>Not Hesaplayıcı:</h2>
 
 ![Not_Hesaplayıcı](https://github.com/ozmenmustafa06/Vektorel_Bilisim_Projeler/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B13.PNG?raw=true)
 
-<p> Not hesaplayıcı alt menüsü, sizden proje.</p>
+<p> Not hesaplayıcı alt menüsü, sizden adınızı, vize notunuzu, final notunuzu, proje notunuzu, ödev notunuzu isteyecektir ve bu bilgiler ışığında ortalamanızı hesaplayabilir, durumunuzu bildirebilir, notunuzu analiz edebilir.</p>
 
 <hr>
 
-Sıcaklık Çevirme:
+<h2>Sıcaklık Çevirme:</h2>
+
 ![Sıcaklık_Çevirme](https://github.com/ozmenmustafa06/Vektorel_Bilisim_Projeler/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B14.PNG?raw=true)
 
-İdeal Kilo Hesaplayıcı:
+<p>Sıcaklık çevirme alt menüsü size Celsius(°C), Fahrenheit(°F) ve Kelvin(K) arasında sıcaklık çevirimi ve sıcaklık karşılaştırması yapabilir.</p>
+
+<hr>
+
+<h2>İdeal Kilo Hesaplayıcı:</h2>
+
 ![İdeal_Kilo_Hesaplayıcı](https://github.com/ozmenmustafa06/Vektorel_Bilisim_Projeler/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B15.PNG?raw=true)
+
+<p>İdeal kilo hesaplayıcı alt menüsü sizden sadece boy ve kilo bilginizi isteyerek vücut kitle indeksi, broca formülü, Erkekler ve Kadınlar için Hamwi formülü, Erkekler ve Kadınlar için Divine formülü, Erkekler ve Kadınlar için Miller formülü ve Erkekler ve Kadınlar için Robinson formülüne göre ideal kilonuzu hesaplayabilir, kilo durumu değerlendirme ile durumunuzun nasıl olduğunu ve kaç kilo almanız/vermeniz gerektiğini öğrenebilirsiniz ve üstelik isterseniz tek bir tıklama ile bütün formüllerde ideal kilonuzu hesaplayıp kilo durumunuzu değerlendirebilmeniz bile mümkün.</p>
