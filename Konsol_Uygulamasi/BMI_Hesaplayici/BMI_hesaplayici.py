@@ -41,6 +41,7 @@ def bmimenu():
         print('''1.50 metre boyunda ve 90 kilogram ağırlığında bir kişinin vücut kitle endeksi ise 90/(1.50)² = 40 bulunur.''')
         print()
         print('''Özellikle çocuk ve gençlik çağındaki bireylerde, ölçüm sonucunda çıkan değerler iki kişi arasında aynı olsa da bu iki kişi arasında tamamen farklı sağlık koşulları bulunabilir (obezite vb.). Bu sebeple bu yaşlarda yapılan VKE ölçümlerinin değerlendirilmesi uzman doktorlar tarafından yapılmalıdır.''')
+        bmimenu()
     elif secim=="4":
         kilo=int(input("Lütfen kilonuzu giriniz (KG):"))
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
