@@ -2,6 +2,7 @@ import Hesap_Makinesi.Hesap_makinesi
 import Not_Hesaplama.Not_hesaplama
 import Sicaklik_Cevirme.Sicaklik_cevirme
 import Ideal_Kilo_Hesaplayici.ideal_kilo_hesaplayici
+import BMI_Hesaplayici.BMI_hesaplayici
 import sys
 import time
 
