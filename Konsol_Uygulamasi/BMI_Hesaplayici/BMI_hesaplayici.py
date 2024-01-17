@@ -13,7 +13,7 @@ def bmimenu():
     print("║ 6- Çıkış                   ║")
     print("║                            ║")
     print("╚════════════════════════════╝")
-    print("")
+    print()
     secim=input("Lütfen seçiminizin başındaki sayıyı yazınız:")
     if secim=="1":
         print("VÜCUT KİTLE ENDEKSİ NEDİR?")
