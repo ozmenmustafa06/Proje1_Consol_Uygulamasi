@@ -48,7 +48,7 @@ def anamenu():
         print("Çok yakında kullanıma sunulacak.")
         anamenu()
     elif secim=="8":
-        print("Çok yakında kullanıma sunulacak.")
+        BMI_Hesaplayici.BMI_hesaplayici.bmimenu()
         anamenu()
     elif secim=="9":
         print("Çok yakında kullanıma sunulacak.")
