@@ -2,6 +2,27 @@
 
 <p>Merhaba👋 MustiZone App konsol uygulamasına hoşgeldiniz aşağıda detaylı uygulama anlatımı mevcuttur.👇</p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Proje</title>
+</head>
+<body>
+
+    <h1>GitHub Proje</h1>
+
+    <!-- YouTube Butonu -->
+    <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+        <img src="youtube_button_image.png" alt="YouTube Video" width="100" height="100">
+    </a>
+
+    <!-- Diğer içerikler buraya eklenebilir -->
+
+</body>
+</html>
+
 <hr>
 
 <h2>Ana Menü:</h2>
