@@ -6,7 +6,7 @@
 
 <h2>Ana Menü:</h2>
 
-![Ana_Menü](https://github.com/ozmenmustafa06/Vektorel_Bilisim_Projeler/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B16.PNG)
+![Ana_Menü](https://github.com/ozmenmustafa06/Proje1_Consol_Uygulamasi/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
 
 <p>Merhaba bu ekran konsol uygulamasının ana menüsüdür ve bütün menülere burası üzerinden ulaşılır tek yapmanız gereken hangi menüye ulaşmak istiyor iseniz onun başındaki sayıyı tuşlamak ve hepsi bu kadar.😊😊</p>
 
@@ -30,7 +30,7 @@
 
 <h2>BMI Hesaplama:</h2>
 
-![BMI Hesaplayıcı](https://github.com/ozmenmustafa06/Proje1_Consol_Uygulamasi/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B17.png)
+![BMI Hesaplayıcı](https://github.com/ozmenmustafa06/Proje1_Consol_Uygulamasi/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B16.PNG)
 
 <p>Bu ekran üzerinden isterseniz detaylıca BMI'ın ne olduğunu, ne için hesaplandığını, nasıl hesaplandığını içeren yazıları okuyarak anlayabilirsiniz, istersenizde BMI hesaplama seçeneği ile boyunuzu ve kilonuzu girerek BMI'ınızı kolayca hesaplayıp sonucu öğrenebilirsiniz.</p>
 
