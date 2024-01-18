@@ -28,6 +28,14 @@
 
 <hr>
 
+<h2>BMI Hesaplama:</h2>
+
+![BMI Hesaplayıcı](https://github.com/ozmenmustafa06/Proje1_Consol_Uygulamasi/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B17.png)
+
+<p>Bu ekran üzerinden isterseniz detaylıca BMI'ın ne olduğunu, ne için hesaplandığını, nasıl hesaplandığını içeren yazıları okuyarak anlayabilirsiniz, istersenizde BMI hesaplama seçeneği ile boyunuzu ve kilonuzu girerek BMI'ınızı kolayca hesaplayıp sonucu öğrenebilirsiniz.</p>
+
+<hr>
+
 <h2>Sıcaklık Çevirme:</h2>
 
 ![Sıcaklık_Çevirme](https://github.com/ozmenmustafa06/Vektorel_Bilisim_Projeler/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B14.PNG?raw=true)
