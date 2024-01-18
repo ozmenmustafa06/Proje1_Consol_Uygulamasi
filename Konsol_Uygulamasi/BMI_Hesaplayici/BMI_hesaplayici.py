@@ -7,7 +7,7 @@ def bmimenu():
     print("║                            ║")
     print("║ 1- BMI Nedir?              ║")
     print("║ 2- BMI Ne İçin Hesaplanır? ║")
-    print("║ 3- BMI Nasıl Hesaplanır    ║")
+    print("║ 3- BMI Nasıl Hesaplanır?   ║")
     print("║ 4- BMI Hesaplama           ║")
     print("║ 5- Ana Menü                ║")
     print("║ 6- Çıkış                   ║")
@@ -45,8 +45,8 @@ def bmimenu():
     elif secim=="4":
         kilo=int(input("Lütfen kilonuzu giriniz (KG):"))
         boy=int(input("Lütfen boyunuzu giriniz (CM):"))
-        vki=kilo/(boy2*boy2)
         boy2=boy/100
+        vki=kilo/(boy2*boy2)
         print(f"Vücut kitle endeksiniz {vki} kg/m2'dir.")
         bmimenu()
     elif secim=="5":
