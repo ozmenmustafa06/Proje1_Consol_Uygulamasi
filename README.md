@@ -14,7 +14,7 @@
     <h1>GitHub Proje</h1>
 
     <!-- YouTube Butonu -->
-    <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+    <a href="https://www.youtube.com/watch?v=[https://www.youtube.com/watch?v=isGlWGVMdSE]" target="_blank">
         <img src="youtube_button_image.png" alt="YouTube Video" width="100" height="100">
     </a>
 
