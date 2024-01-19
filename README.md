@@ -4,6 +4,10 @@
 
 <hr>
 
+[![Youtube Linki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1024px-YouTube_Logo_2017.svg.png)](https://youtu.be/isGlWGVMdSE)
+
+<hr>
+
 <h2>Ana Menü:</h2>
 
 ![Ana_Menü](https://github.com/ozmenmustafa06/Proje1_Consol_Uygulamasi/blob/main/Resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
