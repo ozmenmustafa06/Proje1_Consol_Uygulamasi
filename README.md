@@ -8,7 +8,7 @@
 
 <hr>
 
-<iframe src="https://youtu.be/isGlWGVMdSE" title="W3Schools Free Online Web Tutorials"></iframe>
+<iframe> src="https://youtu.be/isGlWGVMdSE" title="Video tanıtımı"></iframe>
 
 <h2>Ana Menü:</h2>
 
