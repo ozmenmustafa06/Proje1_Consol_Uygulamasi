@@ -8,12 +8,7 @@
 
 <hr>
 
-</iframe>
-
-https://youtu.be/isGlWGVMdSE
- <iframe src="https://youtube.com/embed/isGlWGVMdSE" title="Program tanıtımı">
-   
- </iframe>
+<iframe src="https://youtube.com/isGlWGVMdSE" title="W3Schools Free Online Web Tutorials"></iframe>
 
 <h2>Ana Menü:</h2>
 
