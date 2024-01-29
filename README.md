@@ -8,7 +8,7 @@
 
 <hr>
 
-<iframe> src="https://youtu.be/isGlWGVMdSE" title="Video tanıtımı"></iframe>
+[![Video Önizleme](https://img.youtube.com/vi/isGlWGVMdSE/0.jpg)](https://youtu.be/isGlWGVMdSE)
 
 <h2>Ana Menü:</h2>
 
