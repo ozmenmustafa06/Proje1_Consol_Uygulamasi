@@ -8,7 +8,7 @@
 
 <hr>
 
-[![Video Önizleme](https://img.youtube.com/vi/isGlWGVMdSE/0.jpg)](https://youtu.be/isGlWGVMdSE)
+<iframe src="https://youtu.be/isGlWGVMdSE" width="width" height="height" frameborder="0"></iframe>
 
 <h2>Ana Menü:</h2>
 
