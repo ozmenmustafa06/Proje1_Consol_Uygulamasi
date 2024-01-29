@@ -5,7 +5,7 @@
 <hr>
 
 <a href="https://youtu.be/isGlWGVMdSE">
-<img height="100px" max-width src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1024px-YouTube_Logo_2017.svg.png"/>
+<img height="100px" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1024px-YouTube_Logo_2017.svg.png"/>
 </a>
 
 <hr>
